@@ -96,6 +96,7 @@ Data Model Type:
 ## 📷 Dashboard Preview
 
 (Add Dashboard Screenshot Here)
+‪G:\sale-dashboard-image.png
 
 ---
 
